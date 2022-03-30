@@ -1,1 +1,3 @@
-My python file.
+print("Hello")
+print("Hello World")
+
